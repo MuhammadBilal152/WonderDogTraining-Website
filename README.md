@@ -1,4 +1,4 @@
-# Wonder Dog Training - Shopify E-Commerce Store
+# Wonder Dog Training 
 
 ## Website Link:
 [Visit Wonder Dog Training](https://wonderdogtraining.com/)
